@@ -4,7 +4,7 @@
   "description": "NexusPOS - complete point of sale that works offline.",
   "id": "./",
   "start_url": "./index.html",
-  "scope": "./",
+  "scope": "/NexusPOS/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#232526",
