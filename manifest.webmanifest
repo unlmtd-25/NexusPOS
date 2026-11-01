@@ -2,7 +2,7 @@
   "name": "NexusPOS",
   "short_name": "NexusPOS",
   "description": "NexusPOS - complete point of sale that works offline.",
-  "id": "./",
+  "id": "/NexusPOS/",
   "start_url": "./index.html",
   "scope": "/NexusPOS/",
   "display": "standalone",
